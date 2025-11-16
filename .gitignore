@@ -1,4 +1,3 @@
-//write gitignore file for a React project
 
 ./node_modules
 /.env
